@@ -9,5 +9,8 @@
   },
   "devDependencies": {
     "astro": "^1.0.0-rc.8"
+  },
+  "dependencies": {
+    "@pingux/astro": "^1.25.0"
   }
 }
